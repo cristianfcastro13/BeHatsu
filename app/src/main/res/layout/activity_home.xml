@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:orientation="vertical"
+    tools:context=".HomeActivity">
+
+    <Button
+        android:id="@+id/myMemoriesButton"
+        android:layout_width="251dp"
+        android:layout_height="54dp"
+        android:layout_marginBottom="135dp"
+        android:background="@drawable/round_button"
+        android:onClick="openMemories"
+        android:text="My memories"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/be_hatsu_logo_transparent"
+        tools:layout_editor_absoluteX="139dp"
+        tools:layout_editor_absoluteY="31dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
