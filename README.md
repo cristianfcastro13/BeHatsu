@@ -19,4 +19,4 @@ These 'difficult' features can include some level of compatibility with some and
 Also, it will be easier because the pictures taken by the user will be stored loally instead of on cloud.
 
 ## DevLog
-For those interested, I keep a devlog that I update as I develop the app. It can be found in the same directory as this _'README.md'_ file
+For those interested, I keep a devlog that I update as I develop the app. It can be found [here](https://github.com/cristianfcastro13/BeHatsuApp/blob/main/Devlog.md) (in the same directory as this _'README.md'_ file).
