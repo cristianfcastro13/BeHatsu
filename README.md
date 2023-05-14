@@ -1,4 +1,5 @@
 # BeHatsuApp
+![Logo of the BeHatsu app](https://cdn.discordapp.com/attachments/754773850037682178/1107104774085693460/BeHatsu.jpg)
 ## Why?
 There's this app called "BeReal." that has gained much attention over the last year and a half (I'm writing this during May 2023).
 
