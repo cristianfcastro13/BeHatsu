@@ -16,7 +16,7 @@ I will be using a physical Samsung S10e to try the app as I develop it.
 
 Since this is the first app that I develop, I will try to not include features that are too difficult to implement.
 These 'difficult' features can include some level of compatibility with some android devices, dynamic scaling, and more to come.
-Also, it will be easier because the pictures will be stored loally instead of on cloud.
+Also, it will be easier because the pictures taken by the user will be stored loally instead of on cloud.
 
 ## DevLog
 For those interested, I keep a devlog that I update as I develop the app. It can be found in the same directory as this _'README.md'_ file
