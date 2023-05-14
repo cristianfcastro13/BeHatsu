@@ -8,7 +8,7 @@ For those who don't know the app, it basically makes people take pictures at ran
 I like the app's concept **A LOT**, but the social part of it is not suitable to my taste.
 It is possible to not take part in the social side of the app (if you never befriend anyone), but since the app asks for your phone number during registration, whoever has your phone number and "BeReal." at the same time **WILL FIND YOU**.
 
-Thus, I decided to create a copy of the app from scratch in order to fulfill my dream of random pictures without having to share them with anyone. (or having to befriend anyone)
+Thus, I decided to create a copy of the app from scratch in order to fulfill my dream of random pictures without having to share them with anyone. (or having to befriend anyone / sharing my phone number).
 
 ## How?
 Using Android Studio with some Kotlin probably mixed with Java. Also, XML.
